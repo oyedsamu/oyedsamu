@@ -1,0 +1,18 @@
+Full Name: Oyedele Samuel  
+Email Address: oyedsamu@gmail.com
+Slack Username: oyedsamu
+Tracks: Frontend
+        Backend
+        Mobile
+        Design
+
+Registered Courses: 
+    Frontend:   HTML 
+                CSS 
+                JavaScript
+    Backend:    NodeJS
+                PHP
+    Mobile:     Kotlin
+                Go
+                C#
+    Design:     UI/UX
